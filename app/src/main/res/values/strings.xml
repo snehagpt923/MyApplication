@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="enter_email">Enter Email Id</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="login">Login</string>
+    <string name="subscription">Your Subscription Details</string>
+</resources>
